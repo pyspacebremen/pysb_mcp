@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "MCP_FIRST": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.13/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/sven/Documents/project/pyspacebremen/mcp_first",
+        "run",
+        "--with",
+        "mcp",
+        "mcp",
+        "run",
+        "info.py"
+      ]
+    }
+  },
+  "preferences": {
+    "quickEntryDictationShortcut": "capslock",
+    "coworkScheduledTasksEnabled": true,
+    "sidebarMode": "task",
+    "coworkWebSearchEnabled": true
+  }
+}
